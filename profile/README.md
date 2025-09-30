@@ -1,6 +1,8 @@
-# [Landform Labs](https://www.landformlabs.co) <img align = "right" width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/36b824eb-f3cc-4635-abe7-079183847048" />
+# [Landform Labs](https://www.landformlabs.co) <img align = "right" width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/36b824eb-f3cc-4635-abe7-079183847048" />
 
 **Get Out There, Amaze Yourself, Own It, Repeat**
+
+<br clear="right"/>
 
 ## Who We Are
 
